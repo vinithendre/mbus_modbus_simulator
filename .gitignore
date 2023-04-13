@@ -1,0 +1,27 @@
+# all directories named
+/__pycache__
+
+
+# System Files
+Thumbs.db
+
+
+# Log Files
+simulator.log
+
+
+# Configuration of simulator
+behavior.json
+config.json
+configPort.json
+dataReadConfigurationMbus.json
+dataReadConfigurationModbus.json
+values.json
+
+
+# Other files to exclude
+50-cloud-init.yaml
+
+
+# MBus Cache
+MBusCache_*.json
